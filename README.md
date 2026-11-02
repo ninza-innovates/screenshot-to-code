@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 # screenshot-to-code
 
 A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. Now supporting Claude Sonnet 3.7!
